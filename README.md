@@ -7,7 +7,7 @@ Right now that's **[Woofs Welcome](https://woofswelcome.app)** — a directory f
 
 ## 🐕 Currently Building
 
-### [Woofs Welcome]([https://woofswelcome.app](https://github.com/edmiller1/woofs-welcome-app))
+### [Woofs Welcome]([https://github.com/edmiller1/woofs-welcome-app](https://github.com/edmiller1/woofs-welcome-app))
 > *Find dog-friendly cafés, parks, restaurants & more across New Zealand*
 
 A full-stack discovery platform for dog owners — think a local directory meets community review site, built to eventually expand across Australia and beyond.
