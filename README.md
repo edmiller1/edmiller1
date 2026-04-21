@@ -48,7 +48,7 @@ A full-stack discovery platform for dog owners — think a local directory meets
 
 I'm always up for a chat about building products, the NZ tech scene, or dog-friendly coffee spots.
 
-[![Email](https://img.shields.io/badge/Email-hello@woofswelcome.app-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@woofswelcome.app)
+[![Email](https://img.shields.io/badge/Email-hello@woofswelcome.app-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:edmiller.me@gmail.com)
 
 ---
 
